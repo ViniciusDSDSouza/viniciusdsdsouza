@@ -1,7 +1,7 @@
 # 💫 Sobre Mim:
 Olá, mundo! 🌎
 <br>
-Meu nome é Vinicius Souza e sou estudante de Sistemas de Informação. 💻
+Meu nome é Vinicius Souza e estou cursando Sistemas de Informação. 💻
 <br>
 <br>
 Atualmente, estou me dedicando ao desenvolvimento web e aprimorando minhas habilidades em HTML, CSS, JavaScript, Node.js e React.
